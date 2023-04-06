@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-express-cassandra",
+  "name": "@chargetrip/express-cassandra",
   "version": "0.0.6",
   "description": "Express-cassandra module for Nest framework",
   "keywords": [
